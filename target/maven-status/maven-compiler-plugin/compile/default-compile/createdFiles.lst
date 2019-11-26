@@ -1,0 +1,3 @@
+com\reyco\redis\core\autoConfiguration\RedisAutoConfiguration.class
+com\reyco\redis\core\properties\Config.class
+com\reyco\redis\core\properties\RedisProperties.class
